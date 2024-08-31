@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @ELFAKIRChaimae
+- 👀 I’m a master's student in Artificial Intelligence and Distributed Systems.
+- 🌱 I’m currently learning Deep Learning (DL), Natural Language Processing (NLP), and Generative AI, while also improving my skills in problem-solving, tools, and technologies.
+- 💻 I have experience working on various projects in Machine Learning (ML), Deep Learning (DL), NLP, and Large Language Models (LLMs).
+- 💞️ I’m looking to collaborate on open-source projects related to AI, ML, NLP, or any innovative technology.
+- 📫 How to reach me: You can connect with me on [[https://www.linkedin.com/in/chaimae-elfakir-115a37247/]] or email me at chaimae1.elfakir@gmail.com .
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love diving deep into complex problems and finding creative solutions with the power of AI and technology!
